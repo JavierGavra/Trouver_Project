@@ -1,6 +1,6 @@
 # trouver_project
 
-A new Flutter project.
+Projek kolaborasi dengan teman (JGA & MFA)
 
 ## Getting Started
 
